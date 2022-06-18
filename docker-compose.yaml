@@ -6,6 +6,7 @@ services:
   main:
     container_name: "${USER_NAME}-${PROJECT_NAME}"
     image: ${PROJECT_NAME}:${USER_NAME}
+    restart: unless-stopped
     build: .
     user: "${UID}:${GID}"
     volumes:

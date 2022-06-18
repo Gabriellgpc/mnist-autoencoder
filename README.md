@@ -3,6 +3,7 @@
 
 
 # References
+https://pytorch-lightning.readthedocs.io/en/latest/notebooks/course_UvA-DL/08-deep-autoencoders.html
 https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq
 https://atcold.github.io/NYU-DLSP21/en/week07/07-3/
 https://atcold.github.io/pytorch-Deep-Learning/en/week07/07-3/
